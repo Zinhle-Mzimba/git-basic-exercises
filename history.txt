@@ -1,0 +1,161 @@
+    1  git config
+    2  git config -- global user.name "Zinhle-Mzimba"
+    3  ig --git config -- global user.name "Zinhle-Mzimba"
+    4  git config -- global user.name "Zinhle-Mzimba"
+    5  git config-- global
+    6  git config --global
+    7  git onfig --global user.name
+    8  git config --global user.name
+    9  pwd
+   10  ls
+   11  ls /data
+   12  ls /data
+   13  ls /
+   14  mkdir learning_unix
+   15  ls
+   16  cd learning_unix
+   17  mkdir Outer_directory
+   18  cd Outer_directory
+   19  mkdir Inner_directory
+   20  cd Inner_directory
+   21  mkdir -p
+   22  mkdir --help
+   23  mkdie -p Outer_diectory/Inner_directory
+   24  mkdir -p Outer_diectory/Inner_directory
+   25  cd /
+   26  cd home
+   27  cd../Inner_direcory..
+   28  cd../Inner_directory..
+   29  cd ../Inner_directory..
+   30  cd ../Outer_directory..
+   31  cd /
+   32  cd ~
+   33  cd
+   34  cd ~/ learning_unic
+   35  cd ~/ learning_unix
+   36  cd /
+   37  cd ~/learning_unix
+   38  ls
+   39  ls -l
+   40  ls -l
+   41  ls - R
+   42  ls -R
+   43  man ls
+   44  man
+   45  man ls
+   46  man cd
+   47  git config --list --show-origin
+   48  git --global core.editor "'C:/Program Files(x86)/Notepad++/notepad++.exe'-multiInst - notabbar - nosession - noPlugin"
+   49  cd
+   50  git --global core.editor "'C:/Program Files(x86)/Notepad++/notepad++.exe'-multiInst - notabbar - nosession - noPlugin"
+   51  git config --global core.editor "'C:/Program Files(x86)/Notepad++/notepad++.exe'-multiInst - notabbar - nosession - noPlugin"
+   52  git config --global init.defaultBranch main
+   53  git config --list
+   54  git help
+   55  git help config
+   56  cd C:Users/user/my_project
+   57  cd C:Users/Thandeka/my_project
+   58  cd C:Users/Thandeka/My_project
+   59  git init
+   60  git add *.c
+   61  git add .c
+   62  add *.c
+   63  git add *.c
+   64  git add *.js
+   65  git add 
+   66  git add .?
+   67  git add .
+   68  dit add LICENSE
+   69  Git add LICENSE
+   70  git add LICENSE
+   71  git commit -m 'Initial project version'
+   72  git add *
+   73  git statis
+   74  git statis
+   75  git status
+   76  echo 'My_project' > README
+   77  git status
+   78  git add readme
+   79  git status
+   80  git status
+   81  git add
+   82  git add README
+   83  git status
+   84  git commit -m 
+   85  git commit -m 'Initial Prp'
+   86  status
+   87  git commit -m 'Initial Prp'git 
+   88  git status
+   89  cd
+   90  mkdir git-basic-exercises
+   91  cd git-basic-exercises
+   92  ls -a
+   93  git init
+   94  ls -a
+   95  git status
+   96  touch README.md
+   97  ls-a
+   98  ls -a
+   99  git status
+  100  git log
+  101  git add *.md
+  102  git status
+  103  git re --cached README
+  104  git rm --cached README
+  105  git rm --cached README.md
+  106  git status
+  107  git add *.md
+  108  git status
+  109  git commit -m "initial commit"
+  110  git log
+  111  q
+  112  nano README.md
+  113  cat README.md
+  114  git status
+  115  git commit -m "second commit"
+  116  git add *.md
+  117  git commit -m "second commit"
+  118  nano README.md
+  119  cat README.md
+  120  git status
+  121  git add *.md
+  122  git commit -m "third commit"
+  123  git log
+  124  q
+  125  git checkout
+  126  c0c7c090eedca2a5ad94e653e653e06be9143a0900a5
+  127  cOc7cO9Oeedca2a5ad94e653e653eO6be9143aO9OOa5
+  128  q
+  129  Q
+  130  q+
+  131  git checkout
+  132  cOc7cO9Oeedca2a5ad94e653e653eO6be9143aO9OOa5
+  133  c0c7c090eedca2a5ad94e653e653e06be9143a0900a5
+  134  git checkout
+  135  c0c7c090eedca2a5ad94e653e06be9143a0900a5
+  136  hash c0c7c090eedca2a5ad94e653e06be9143a0900a5
+  137  commit hash c0c7c090eedca2a5ad94e653e06be9143a0900a5
+  138  cat readme.md
+  139  q
+  140  [q]
+  141  git branch
+  142  -b milkshake-flavours
+  143  -b <milkshake-flavours>
+  144  git -b <milkshake-flavours>
+  145  git branch <milkshake-flavours>
+  146  git branch milkshake-flavours
+  147  git branch
+  148  git checkout -b milkshake-flavours
+  149  git checkout milkshake-flavours
+  150  git branch
+  151  nano milkshakes.md
+  152  git status
+  153  git add *.md
+  154  git commit -m "added initial flavours"
+  155  git log
+  156  checkout main
+  157  git checkout main
+  158  git branch history
+  159  git checkout history
+  160  git log
+  161  history > history.txt
